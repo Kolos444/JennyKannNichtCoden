@@ -1,0 +1,24 @@
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.csprojAssemblyReference.cache
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.Properties.Resources.resources
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.csproj.GenerateResource.cache
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.csproj.CoreCompileInputs.cache
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\bin\Debug\AnimeWatchList2.exe.config
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\bin\Debug\AnimeWatchList2.exe
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\bin\Debug\AnimeWatchList2.pdb
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.exe
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.pdb
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.StartMenu.resources
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.Übersicht.resources
+C:\Users\schmidje\source\repos\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.TopList.resources
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\bin\Debug\AnimeWatchList2.exe.config
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\bin\Debug\AnimeWatchList2.exe
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\bin\Debug\AnimeWatchList2.pdb
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.csprojAssemblyReference.cache
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.StartMenu.resources
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.Properties.Resources.resources
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.TopList.resources
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.Übersicht.resources
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.csproj.GenerateResource.cache
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.csproj.CoreCompileInputs.cache
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.exe
+M:\Austauschordner\Jennifer Schmidt\AnimeWatchList2\AnimeWatchList2\obj\Debug\AnimeWatchList2.pdb
